@@ -1,0 +1,9 @@
+ibis/
+keyring.json
+planning.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*_cache.json
+pyproject.toml
